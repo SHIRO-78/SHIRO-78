@@ -34,11 +34,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Shahad's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SHIRO-78&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHIRO-78&layout=compact&theme=tokyonight&hide_border=true)
----
-
 💡 *Favorite Quote:* **"Security is not a product, but a process."**
