@@ -1,38 +1,45 @@
-# Welcome to My Digital World! 👋 
+# Welcome to My Digital World! 🛡️✨
 
-## I'm Shahad 🛡️✨
-**Cybersecurity Student (2nd Year) at Imam Al-Kadhum College**
+### Hi there, I'm Shahad 👋
 
-Hello! I am passionate about exploring the world of cybersecurity and securing systems. Currently, I am focused on building a solid foundation in networking and programming to automate tasks and understand vulnerabilities.
-
----
-
-### 🚀 About Me
-- 🎓 **Major:** Cybersecurity - 2nd Year.
-- 🏫 **University:** Imam Al-Kadhum College.
-- 🎯 **Current Goal:** Deepening my understanding of network security and mastering security-focused programming.
-- 🌱 **Learning Journey:** Developing tools using Python and understanding complex network protocols.
+🎓 **Cybersecurity Student** | 💻 **Python & C++ Developer** | 🔒 **Cryptography & Security Enthusiast**
 
 ---
 
-### 🛠️ Tech Stack
+### 📌 About Me
+
+* 🎓 **Major:** Cybersecurity (2nd Year Student).
+* 🎯 **Current Focus:** Building security automation tools, mastering cryptography algorithms (Stream & Block Ciphers), and deep-diving into Data Structures & Relational Databases (SQL).
+* 🚀 **Learning Journey:** Developing high-performance tools using **Python** & **C++**, implementing core data structures from scratch, and optimizing secure software workflows.
+* 🛠️ **Environment:** Coding locally with VS Code, MySQL Workbench, and Git.
+
+---
+
+### 🛠️ Tech Stack & Skills
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> |
-| **Networking & Security** | 🌐 Networking Basics (OSI Model, TCP/IP) |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> |
+| **Languages** | `Python` `C++` `SQL` |
+| **Security & Cryptography** | `Stream Ciphers` `Block Ciphers` `Software Security` `Network Protocols (TCP/IP, OSI)` |
+| **Databases & Tools** | `MySQL` `phpMyAdmin` `XAMPP` `Git` `GitHub` `VS Code` |
 
 ---
 
-### 📚 Current Focus
-- 🐍 Writing scripts and simple automation tools using **Python**.
-- 🌐 Studying network protocols, routing, and switching.
-- 💻 Reviewing and strengthening my foundational programming concepts with **C++**.
+### ⚡ Current Learning & Projects
+
+* 🐍 **Python:** Building core logic engines (game physics & automation scripts).
+* ⚙️ **C++:** Implementing low-level Data Structures (Stacks, Arrays, Pointer Indexing).
+* 🗄️ **Databases:** Designing relational database schemas & distributed databases.
+* 🔏 **Cybersecurity:** Analyzing cryptographic equations & network socket architectures.
 
 ---
 
+### 📊 GitHub Stats
+
+![Shahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHIRO-78&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIRO-78&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-⚡ *💡 Favorite Quote: "Security is not a product, but a process."*
+💡 *Favorite Quote:* **"Security is not a product, but a process."**
